@@ -1,0 +1,11 @@
+{
+  "default": {
+    "elements": {
+      "cloud": {
+        "branch": "master",
+        "path": ".",
+        "preset": "python-experimental"
+      }
+    }
+  }
+}
