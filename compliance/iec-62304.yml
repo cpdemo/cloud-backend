@@ -5,3 +5,7 @@ items:
   os:
     description: |
       Std utilities to interact with the os
+
+  pyyaml:
+    description: |
+      For demo purpose
