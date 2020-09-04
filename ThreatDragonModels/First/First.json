@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "First",
+    "owner": "Vlad Stirbu",
+    "description": "Some description here"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Vladutz"
+  }
+}
